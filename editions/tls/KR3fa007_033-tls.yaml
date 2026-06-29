@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa007/tls/v1/juan/33
+seq: 33
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 銅壺漏箭制度
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa007.xml
+hash: sha256:25a15608fddf44a4a155925a18b4cb3c07a6adf2ad6f46da7ca05fd7fb9cfe5e

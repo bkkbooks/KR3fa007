@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa007/tls/v1/juan/34
+seq: 34
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 清源兌解進士魏國鈞校正
+  hash: sha256:18872f74a9f0ec8ddc5a131956b05e3c3d20852b602124986eebfb2611ce9275
+metadata:
+  title: 銅壺漏箭制度
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa007.xml
+hash: sha256:bf4e540092c4a70a54d0c061fed4776ccf9b73444a1665085a2e0ebefd912d0e

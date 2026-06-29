@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa007/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 匱長二尺𠗡廣如斛方一尺五寸𠗡一尺二小㪷長廣皆下斛重二百八十斤寸重七鈞傍臨脣一寸一尺重一百斤匱斛之下為暗爐作螭首為減水之穴匱斛㪷盆座冬置火使斛蓋水常平而均用皆冶鐵為之木爲蓋
+  hash: sha256:99bcb290d45e1f03a02128f741568a38e045f3e80a994d6056e8bbbf40cb78af
+metadata:
+  title: 銅壺漏箭制度
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa007.xml
+hash: sha256:c8b0375a3bfc5e160f947df3a687112ef3dfa76e1b1afcb45e783dfde88f354a

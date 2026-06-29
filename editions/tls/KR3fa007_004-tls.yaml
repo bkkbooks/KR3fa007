@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa007/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 櫃長二尺𠗡廣如斛方一尺五寸𠗡一尺二小㪷長廣皆下斛重二百八十斤寸重七鈞傍臨脣一寸一尺重一百斤櫃斛之下為暗爐作螭首為減水之穴櫃斛㪷盆座冬置火使斛蓋水常平而均用皆冶鐵為之木为蓋
+  hash: sha256:434d1f13ddeefe75f03b8c11e4ee72befed3e752fc4c9a320774861a1aa0d300
+metadata:
+  title: 銅壺漏箭制度
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa007.xml
+hash: sha256:6fc2c9c7f1756ef316db6ece5cbee0745553e751bc6e2f89a10da8e381876713

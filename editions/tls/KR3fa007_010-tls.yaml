@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fa007/tls/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 箭長三尺六寸方徑四分面各為二十五刻書夜四易而百刻同每時出扵盤心總二十五枝每氣用上下二箭二至各用一箭而始終之總太史四十八箭之法也壺高三尺徑一尺重四均其內別有銅浮蓮空中以泛箭闊七寸重叁拾兩壺面盤徑一尺三寸重十八斤捧箭仙人重八斤床二十五兩前雀右虎各二斤左龍二斤二兩後龜一斤七兩皆銅為之仙人坐盤中鐶以四神手捧小盤箭穿其中随水之積以生時刻
+  hash: sha256:13a855d180d73ae549b17aded724715b87e7a933ba0964ba7ac5081160c7d165
+metadata:
+  title: 銅壺漏箭制度
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa007.xml
+hash: sha256:0459891661b0a3a85533b57d29963cba22ecbfec768ca6a0cccddc2236a4e073
