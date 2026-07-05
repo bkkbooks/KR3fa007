@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 下渴鳥長一尺八寸水竅容一中芥子上渴鳥比下竅稍大而長加二寸銅荷各重二斤盆𠗡一尺徑二尺五寸重二百斤以中有穴如錢眼貯乾坤艮巽易大蒂虛長一尺箭之退水五寸開一尺
-  hash: sha256:4749faface5c3decab603ebb709f6abcb3d2fc7e366a8d60dfb22ab91a1af349
+  text: 下渴鳥長一尺八寸水竅容一中芥子上渴鳥比下竅稍大而長加二寸銅荷各重二斤盆𠗡一尺徑二尺五寸重二百斤以中有穴如錢眼貯乾坤艮𢁉易大蒂虛長一尺箭之退水五寸開一尺
+  hash: sha256:216de60339cf645e7cc91b30e1e6d1267cdca68be3d07b81aeb621aa108459b5
 metadata:
   title: 銅壺漏箭制度
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fa007.xml
-hash: sha256:c41c12289c70702985e54d1ce5207e83713e95fe8e7aab5b4f897b32f5958e91
+hash: sha256:b89d4d3ffe3a7e6390eb44f1f28f83bdf83a764d6e3c7a46d776cebb2b4882b2
